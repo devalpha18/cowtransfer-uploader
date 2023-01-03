@@ -8,7 +8,7 @@ Simple cowTransfer Uploader/Downloader
 
 ## install
 
-Go语言程序, 可直接在[发布页](https://github.com/Mikubill/cowtransfer-uploader/releases)下载使用。
+Go语言程序, 可直接在[发布页]下载使用。
 
 linux的小伙伴也可以使用这个命令来下载：
 
